@@ -1,1 +1,1 @@
-# Hotel-Management-System
+# Flowerstore-chain-Management-system-design
